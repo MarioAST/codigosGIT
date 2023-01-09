@@ -47,3 +47,11 @@ git checkout -b ramab cambia a rama b
 
 
 Para ver las íneas cambiadas git diff
+
+Para subir a la nuve en github pamar_05@hotmail Nectarinehair910
+
+git remote add origin https://github.com/MarioAST/codigosGIT.git
+
+git push -u origin master
+
+
