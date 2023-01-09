@@ -18,3 +18,6 @@ git commit -m "Texto explicando los cambios"
 
 elimiar archivo
 rm archivo2.txt
+
+Se puede recuperar el archivo si no se ha hecho commit con git restore archivo2.txt
+
