@@ -54,4 +54,7 @@ git remote add origin https://github.com/MarioAST/codigosGIT.git
 
 git push -u origin master
 
+s reealiazn cambios normalmente y se suben con 
+
+git push
 
