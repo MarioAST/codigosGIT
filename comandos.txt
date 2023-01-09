@@ -35,3 +35,5 @@ Agregado 2
 
 
 Para ver las íneas cambiadas git diff
+
+git merge ramaB
