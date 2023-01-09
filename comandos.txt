@@ -26,4 +26,7 @@ depues hat que hacer un git add archivo1.txt archivo2.txt y después un commit -
 
 si se hace con git mv hace el add automáticamente, para ya solo hacer commit
 
-Archivos únicos en nuestra computadora.
+Archivos únicos en nuestra computadora. se agrega el archivo .gitignore y dentro los archivos a ignorar.
+
+git status -s miestra el estatus con codigo M(rojo) A(agregado) el color verde esta listo para commit
+
