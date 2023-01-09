@@ -1,0 +1,29 @@
+GIT comandos
+
+git config user.name "Mario Sierra"
+git config user.email "pamar_05@hotmail.com"
+git config --global -e Abre el archivo de configuraciones
+
+En GIT -BASH
+PWD -donde esto?
+CD .. entrar a carpeta
+ls listar carpetas
+ls -a listar carpetas incluso ocultas
+mkdir crear carpeta
+
+git add archivo.txt   agrega a git el seguimiento del archivo
+git status   muestra el estatus de los archivos a gurdar o si hubo cambios
+
+git commit -m "Texto explicando los cambios"
+
+elimiar archivo
+rm archivo2.txt
+
+Se puede recuperar el archivo si no se ha hecho commit con git restore archivo2.txt
+
+mv archivo1.txt archivo2.txt  Cambia el nombre del archivo 1 al 2
+depues hat que hacer un git add archivo1.txt archivo2.txt y después un commit -m ""
+
+si se hace con git mv hace el add automáticamente, para ya solo hacer commit
+
+Archivos únicos en nuestra computadora.
