@@ -1,0 +1,11 @@
+GIT comandos
+
+En GIT -BASH
+PWD -donde esto?
+CD .. entrar a carpeta
+ls listar carpetas
+ls -a listar carpetas incluso ocultas
+mkdir crear carpeta
+
+git add archivo.txt   agrega a git el seguimiento del archivo
+git status   muestra el estatus de los archivos a gurdar o si hubo cambios
