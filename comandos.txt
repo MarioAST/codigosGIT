@@ -30,3 +30,8 @@ Archivos únicos en nuestra computadora. se agrega el archivo .gitignore y dentr
 
 git status -s miestra el estatus con codigo M(rojo) A(agregado) el color verde esta listo para commit
 
+Cambio para ser visualizado
+Agregado 2
+
+
+Para ver las íneas cambiadas git diff
