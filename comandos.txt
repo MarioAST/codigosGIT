@@ -34,4 +34,15 @@ Cambio para ser visualizado
 Agregado 2
 
 
-Para ver las íneas cambiadas git diff
+git diff Para ver las íneas cambiadas antes del git add
+
+git diff --staged para ver cambios antes del commit, después de haber hecho un git add
+
+git log ver historial de cambios
+
+
+git branch Me dice en que rama estoy
+
+ git checkout -b ramab cambia a rama b
+ 
+ Texto agregado en ramaBB
